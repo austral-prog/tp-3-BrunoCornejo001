@@ -6,6 +6,6 @@ def slice_advanced():
     primera_a_cuarta = texto[:4]
     antepenultima_a_ultima = texto[-3:]
 
-    print(primeras_tres.lower()
-    print(medio.lower()
+    print(primeras_tres.lower())
+    print(medio.lower())
     print(primera_a_cuarta.lower() + antepenultima_a_ultima.lower())
